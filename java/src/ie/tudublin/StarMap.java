@@ -12,13 +12,17 @@ public class StarMap extends PApplet
 	public void setup() {
 		colorMode(HSB);
 		background(0);
-
+		
 		smooth();
 		
+
+
 	}
 
 	public void draw()
 	{	
 		strokeWeight(2);		
+
+		drawGrid();
 	}
 }
