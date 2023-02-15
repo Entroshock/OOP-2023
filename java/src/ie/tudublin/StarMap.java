@@ -17,7 +17,6 @@ public class StarMap extends PApplet
 		
 	}
 
-		
 	public void draw()
 	{	
 		strokeWeight(2);		
