@@ -23,6 +23,6 @@ public class StarMap extends PApplet
 	{	
 		strokeWeight(2);		
 
-		drawGrid();
+		//drawGrid();
 	}
 }
